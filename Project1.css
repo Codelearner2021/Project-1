@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+    margin: 0;
+}
+
+.top-navbar{
+    background-color:#779ecb;
+    padding: 24px;
+    font-size:24px;
+}
+
+.navbar-list{
+    font-size:  20px;
+    padding: 10px;
+}
+
+#list-heading {
+    padding-left: 20px;
+    font-size:25px;
+}
